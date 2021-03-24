@@ -1,8 +1,7 @@
 # Philip May
 Hi there 👋
 
-My wiki is here: https://eniak.de
-
+Please visit my website at [May.la](https://may.la/).
 
 
 
