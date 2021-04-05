@@ -1,9 +1,9 @@
 # Philip May
-Hi there 👋
+Hi there 👋\
+for more info please visit my website at [May.la](https://may.la/).
 
-Please visit my website at [May.la](https://may.la/).
-
-
+Thanks\
+Philip
 
 <!--
 **PhilipMay/PhilipMay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
