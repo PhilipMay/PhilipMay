@@ -1,6 +1,6 @@
 # Philip May
 Hi there,\
-for more info please visit my website at [May.la](https://may.la/).
+for more info about me please visit my website at [May.la](https://may.la/).
 
 It contains [my blog](https://may.la/blog/),
 is about [my open source contributions](https://may.la/open-source-contributions/) and
