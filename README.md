@@ -11,7 +11,7 @@ the following topics:
 - [IT](https://may.la/it/)
 - [Linux](https://may.la/linux/)
 
-You can also find me on <a rel="me" href="https://m.eniak.info/@philipmay">Mastodon</a>.
+You can also find me on <a rel="me" href="https://m.eniak.info/@philipmay">Fediverse / Mastodon</a>.
 
 Thanks\
 Philip
