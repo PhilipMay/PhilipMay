@@ -2,14 +2,14 @@
 Hi there,\
 for more info about me please visit my website at [May.la](https://may.la/).
 
-It contains [my blog](https://may.la/blog/),
-is about [my open source contributions](https://may.la/open-source-contributions/) and
+It contains [my blog](https://may.la/blog.html),
+is about [my open source contributions](https://may.la/#my-open-source-contributions) and
 the following topics:
 
-- [Machine Learning](https://may.la/machine-learning/)
-- [Python](https://may.la/python/)
-- [IT](https://may.la/it/)
-- [Linux](https://may.la/linux/)
+- [Machine Learning](https://may.la/machine-learning.html)
+- [Python](https://may.la/python.html)
+- [IT](https://may.la/it.html)
+- [Linux](https://may.la/linux.html)
 
 Thanks\
 Philip
