@@ -3,7 +3,7 @@ Hi there,\
 for more info about me please visit my website at [May.la](https://may.la/).
 
 It contains [my blog](https://may.la/blog.html),
-is about [my open source contributions]([https://may.la/#my-open-source-contributions](https://may.la/my-oss-contributions.html)) and
+is about [my open source contributions](https://may.la/#my-open-source-contributions](https://may.la/my-oss-contributions.html) and
 the following topics:
 
 - [Machine Learning](https://may.la/machine-learning.html)
